@@ -1,8 +1,10 @@
 ------------------------------------------------------------------------------------------------------
-🎯PROJET ARCHITECTURE SI
+🎯Comprendre les bases du réseau (OSI, DHCP, NAT)
 ------------------------------------------------------------------------------------------------------
-Pitch de l'atelier.  
-
+Cet atelier propose une exploration pratique des fondamentaux des réseaux informatiques à travers trois mécanismes essentiels : le modèle OSI, le protocole DHCP et la traduction d’adresses NAT.  
+  
+L’objectif est de visualiser concrètement le fonctionnement du réseau, depuis la structure des communications jusqu’à l’attribution des adresses IP et la communication avec Internet. Dans un premier temps, nous allons découvrir le modèle OSI (Open Systems Interconnection) et son rôle comme cadre conceptuel pour organiser les communications réseau en 7 couches. Ensuite, notre atelier reviendra sur le protocole DHCP, qui permet d’attribuer automatiquement une configuration réseau (adresse IP, passerelle, DNS). Et enfin, l’atelier abordera le NAT (Network Address Translation), un mécanisme clé permettant à plusieurs machines d’un réseau privé de partager une même adresse IP publique pour accéder à Internet.  
+  
 **Architecture cible**  
 
 ![Screenshot Actions](Architecture_cible.png)  

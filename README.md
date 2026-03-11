@@ -54,7 +54,7 @@ Vous avez vu dans cette séquence comment créer des secrets GiHUB afin de mettr
 Vous pouvez observez les différentes couches OSI sur votre site **{site}.pythonanywhere.com/osi**  
   
 **Exercice 1 : Définissez les termes suivants (Répondre directement dans GitHub)**    
-* Un protocole,  Oui
+* Un protocole,  DEP
 * Une entité protocolaire,
 * Un service,  
 * Une primitive de service,  

@@ -73,7 +73,8 @@ Pont d'acces logique N+1 => N. c'est simplement l'adresse ou l'application va se
 Vous pouvez observez le protocole DHCP sur votre site **{site}.pythonanywhere.com/dhcp**  
   
 **Exercice 2 : Créer une image montrant l’encapsulation des couches suivantes**    
-_Collez votre image ici_ 
+<img width="1364" height="843" alt="image" src="https://github.com/user-attachments/assets/b24eed4a-1388-43dd-a143-fb20cfb46093" />
+
   
 --------------------------------------------------------------------
 🧠 Troubleshooting :

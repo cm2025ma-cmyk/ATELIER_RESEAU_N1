@@ -4,6 +4,7 @@ import sqlite3
 from collections import deque
 from flask import Flask, request, jsonify, make_response
 
+
 app = Flask(__name__)
 
 # ---- Simple in-memory "QoS" simulation state ----
